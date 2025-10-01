@@ -29,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $fuel_needed = $distance / $fuel_consumption;
         $travel_cost = $fuel_needed * $fuel_price;
 
-        echo "<h3>Estimated Travel Cost: " . number_format($travel_cost, 2) . "</h3>";
+        echo "<h3>Estimated Travel Cost: " . number_format($travel_cost, 2) . " PHP</h3>";
     } else {
         echo "<p style='color:red;'>Fuel consumption must be greater than zero.</p>";
     }

@@ -10,12 +10,12 @@
     <ul>
         <li><a href="intro.php">Introduce Yourself</a></li>
         <li><a href="math.php">Simple Math</a></li>
-        <li><a href="url">Area and Perimeter of a Rectangle</a></li>
-        <li><a href="url">Temperature Converter</a></li>
-        <li><a href="url">Swapping Variables</a></li>
-        <li><a href="url">Salary Calculator</a></li>
-        <li><a href="url">BMI Calculator</a></li>
-        <li><a href="url">String Manipulation</a></li>
+        <li><a href="rectangle.php">Area and Perimeter of a Rectangle</a></li>
+        <li><a href="temperature.php">Temperature Converter</a></li>
+        <li><a href="variable.php">Swapping Variables</a></li>
+        <li><a href="calculator.php">Salary Calculator</a></li>
+        <li><a href="bmi.php">BMI Calculator</a></li>
+        <li><a href="string.php">String Manipulation</a></li>
         <li><a href="bank.php">Bank Account Simulation</a></li>
         <li><a href="grade.php">Simple Grading System</a></li>
         <li><a href="currency.php">Currency Converter</a></li>
